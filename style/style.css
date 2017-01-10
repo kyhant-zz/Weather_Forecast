@@ -1,0 +1,13 @@
+.input-group {
+  margin: 20px 0;
+}
+
+.chart {
+  width: 220px;
+  margin: 0 auto;
+}
+
+td, th {
+  vertical-align: middle !important;
+  text-align: center !important;
+}
